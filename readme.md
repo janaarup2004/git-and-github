@@ -7,3 +7,14 @@ npm install
 ```
 
 ## Run
+```bash
+npm start
+```
+
+## Test
+```bash
+npm start
+```
+
+## License
+MIT
