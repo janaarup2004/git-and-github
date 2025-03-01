@@ -13,7 +13,7 @@ npm start
 
 ## Test
 ```bash
-npm start
+npm test
 ```
 
 ## License
